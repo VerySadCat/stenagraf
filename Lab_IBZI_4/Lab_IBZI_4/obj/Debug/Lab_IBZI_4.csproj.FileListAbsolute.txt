@@ -1,0 +1,10 @@
+D:\prog\Ибзи\Lab_IBZI_4\Lab_IBZI_4\bin\Debug\Lab_IBZI_4.exe.config
+D:\prog\Ибзи\Lab_IBZI_4\Lab_IBZI_4\bin\Debug\Lab_IBZI_4.exe
+D:\prog\Ибзи\Lab_IBZI_4\Lab_IBZI_4\bin\Debug\Lab_IBZI_4.pdb
+D:\prog\Ибзи\Lab_IBZI_4\Lab_IBZI_4\obj\Debug\Lab_IBZI_4.csprojAssemblyReference.cache
+D:\prog\Ибзи\Lab_IBZI_4\Lab_IBZI_4\obj\Debug\Lab_IBZI_4.Form1.resources
+D:\prog\Ибзи\Lab_IBZI_4\Lab_IBZI_4\obj\Debug\Lab_IBZI_4.Properties.Resources.resources
+D:\prog\Ибзи\Lab_IBZI_4\Lab_IBZI_4\obj\Debug\Lab_IBZI_4.csproj.GenerateResource.cache
+D:\prog\Ибзи\Lab_IBZI_4\Lab_IBZI_4\obj\Debug\Lab_IBZI_4.csproj.CoreCompileInputs.cache
+D:\prog\Ибзи\Lab_IBZI_4\Lab_IBZI_4\obj\Debug\Lab_IBZI_4.exe
+D:\prog\Ибзи\Lab_IBZI_4\Lab_IBZI_4\obj\Debug\Lab_IBZI_4.pdb
